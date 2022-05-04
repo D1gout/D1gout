@@ -1,3 +1,5 @@
+hide
+
 git add README.md
 
 git add Load.bat
