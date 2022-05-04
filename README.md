@@ -4,7 +4,7 @@
 
 ### About me
 
-#### I'm 19 years old. I study in Russia. I love Mac and Swift
+#### My name is Daniil Ashchev. I'm 19 years old.. i study in Russia. I love Mac and Swift
 
 ### Languages and Tools
 [![C#](https://img.shields.io/badge/-CSharp-0d1117?style=for-the-badge&logo=CSharp&logoColor=ab64bf)](https://github.com/D1gout/CSharp)
@@ -21,4 +21,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=cc3f88)](https://www.instagram.com/my_aweyout)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1gout&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1gout&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
