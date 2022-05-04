@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=Java&logoColor=e26f07)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=fffdfe)
-![VK](https://img.shields.io/badge/-Vkontakte-0d1117?style=for-the-badge&logo=VK&logoColor=b789e9)
-![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=cc3f88)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=fffdfe)](https://t.me/Aweyout)
+[![VK](https://img.shields.io/badge/-Vkontakte-0d1117?style=for-the-badge&logo=VK&logoColor=b789e9)](https://vk.com/id179778662)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=cc3f88)](https://www.instagram.com/my_aweyout)
 
