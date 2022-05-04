@@ -21,4 +21,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=cc3f88)](https://www.instagram.com/my_aweyout)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1gout&langs_count=8&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1gout&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
