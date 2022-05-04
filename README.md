@@ -5,6 +5,7 @@
 About me
 
 ### Languages and Tools
-![C#](https://img.shields.io/badge/-CSharp-ba054d?style=for-the-badge&logo=CSharp&logoColor=ab64bf)
+![C#](https://img.shields.io/badge/-CSharp-0d1117?style=for-the-badge&logo=CSharp&logoColor=ab64bf)
+![Swift](https://img.shields.io/badge/-Swift-0d1117?style=for-the-badge&logo=Swift&logoColor=fffdfe)
 
 Follow me
