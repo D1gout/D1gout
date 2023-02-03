@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=ffd748)](https://github.com/D1gout/Python)
 ![Objective-C](https://img.shields.io/badge/-Objective_C-0d1117?style=for-the-badge&logo=Apple&logoColor=cacaca)
 ![Visual_Basic](https://img.shields.io/badge/-Visual_Basic-0d1117?style=for-the-badge&logo=Microsoft&logoColor=b789e9)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=f7e01d)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=f7e01d)](https://github.com/D1gout/JScript)
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=Java&logoColor=e26f07)
 
 ### Follow Me
