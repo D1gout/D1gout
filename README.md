@@ -15,7 +15,7 @@
 [![Swift](https://img.shields.io/badge/-Swift-0d1117?style=for-the-badge&logo=Swift&logoColor=#F05138)](https://github.com/D1gout/SWIFT)
 [![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=#3776AB)](https://github.com/D1gout/Python)
 
-### Follow Me
+### My contacs
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=fffdfe)](https://t.me/Aweyout)
 [![VK](https://img.shields.io/badge/-Vkontakte-0d1117?style=for-the-badge&logo=VK&logoColor=b789e9)](https://vk.com/id179778662)
