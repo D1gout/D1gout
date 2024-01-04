@@ -4,7 +4,7 @@
 
 ### About Me
 
-#### My name is Daniil Ashchev. I'm 20 years old... i study in Russia. I love Mac and Swift
+#### My name is Daniil Ashchev. I'm 21 years old... i study in Russia. I love Mac and Swift
 
 ### Languages and Tools
 
