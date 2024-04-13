@@ -6,13 +6,20 @@
 
 #### My name is Daniil Ashchev. I'm 21 years old... i study in Russia. I love Mac and Swift
 
-### Languages and Tools
+### Working Tools
 
 ![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 [![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=#3776AB)](https://github.com/D1gout/Python)
 
 [![Vue 3](https://img.shields.io/badge/-Vue_3-0d1117?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)](https://github.com/D1gout/Vue3)
 [![PHP](https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=Laravel&logoColor=#FF2D20)](https://github.com/D1gout/Vue3)
+
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=MySQL&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=#326792)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=Docker&logoColor=#319cee)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=for-the-badge&logo=Kubernetes&logoColor=#3965c1)
+
+### Another Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)](https://github.com/D1gout/JScript)
 [![C#](https://img.shields.io/badge/-CSharp-0d1117?style=for-the-badge&logo=CSharp&logoColor=blue)](https://github.com/D1gout/CSHARP)
