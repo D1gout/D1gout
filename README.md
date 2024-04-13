@@ -9,13 +9,14 @@
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
+[![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=#3776AB)](https://github.com/D1gout/Python)
+
 [![Vue 3](https://img.shields.io/badge/-Vue_3-0d1117?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)](https://github.com/D1gout/Vue3)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)](https://github.com/D1gout/JScript)
 [![PHP](https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=Laravel&logoColor=#FF2D20)](https://github.com/D1gout/Vue3)
-<br>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)](https://github.com/D1gout/JScript)
 [![C#](https://img.shields.io/badge/-CSharp-0d1117?style=for-the-badge&logo=CSharp&logoColor=blue)](https://github.com/D1gout/CSHARP)
 [![Swift](https://img.shields.io/badge/-Swift-0d1117?style=for-the-badge&logo=Swift&logoColor=#F05138)](https://github.com/D1gout/SWIFT)
-[![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=#3776AB)](https://github.com/D1gout/Python)
 
 ### My contacs
 
