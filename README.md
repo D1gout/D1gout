@@ -1,10 +1,10 @@
 ﻿![Header](https://github.com/D1gout/D1gout/blob/main/assets/univer.gif)
 
-## I'm studying to be a programmer at the Humanities University
+## Graduated with honors from the Humanities University, degree in Programming
 
 ### About Me
 
-#### My name is Daniil Ashchev. I'm 22 years old... i study in Russia. I love Mac and Swift
+#### My name is Daniil Ashchev. I'm 22 years old. I live in Russia. I love Mac and Swift.
 
 ### Working Tools
 
@@ -30,3 +30,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=fffdfe)](https://t.me/Aweyout)
 [![VK](https://img.shields.io/badge/-Vkontakte-0d1117?style=for-the-badge&logo=VK&logoColor=b789e9)](https://vk.com/id179778662)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram&logoColor=cc3f88)](https://www.instagram.com/my_aweyout)
+
